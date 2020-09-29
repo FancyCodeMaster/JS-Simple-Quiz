@@ -1,4 +1,4 @@
-
+//This is the coding challenge from a course I did from Udemy on JS.
 /////////////////////////////
 // CODING CHALLENGE
 
